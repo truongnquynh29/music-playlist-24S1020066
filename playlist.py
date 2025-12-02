@@ -21,7 +21,14 @@ def main():​
  break​
  else:​
  print("Lựa chọn không hợp lệ.")​
-​
+def add_song():​
+ # Nhập tên bài, ca sĩ, thời lượng -> append vào songs​
+ print("Đã thêm bài hát vào playlist.")​
+
+​def view_playlist():​
+ # Duyệt list songs và in ra​
+ # Ví dụ: 1. Lạc Trôi - Sơn Tùng MTP (240s)​
+ pass​
 if __name__ == "__main__":​
  main()
 def add_song():​
