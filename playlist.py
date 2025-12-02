@@ -34,3 +34,7 @@ if __name__ == "__main__":​
 def add_song():​
  # Nhập tên bài, ca sĩ, thời lượng -> append vào songs​
  print("Đã thêm bài hát vào playlist.")​
+def search_by_artist():​
+ # Nhập tên ca sĩ​
+ # Duyệt list, so sánh artist (có thể dùng in hoặc ==), in ra bài hát​
+ pass
